@@ -1,3 +1,4 @@
+//Sebastian Vargas 91303/4  com 4
 //carga de imagenes de dados y personajes.
 PImage [] images = new PImage[6];
 String [] filenames = {"a.png","b.png","c.png","d.png","e.png","f.png"};
