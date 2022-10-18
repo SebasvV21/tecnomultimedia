@@ -1,3 +1,5 @@
+//sebastian vargas vasquez 91303/4 //
+//*https://www.youtube.com/watch?v=7OWPoWXRdwk*//
 PImage Inicio;
 PFont font;
 int estado=0;
