@@ -1,4 +1,5 @@
-//sebastian vargas vasquez 91303/4 comision 3//
+/*sebastian vargas vasquez 91303/4 comision 3
+https://www.youtube.com/watch?v=WES_TyijYYA*/
 
 import processing.sound.*;
 
